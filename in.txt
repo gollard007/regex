@@ -1,0 +1,4 @@
+(aa|bb)* ab a aa bb aabbaa aabaa
+(b)* ab a aa bb aabbaa aabaa
+(aa|b)*(cd) abcd a aa bb aabbaacd aabaa
+(aa) aa bb cc
